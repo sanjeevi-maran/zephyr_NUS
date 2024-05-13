@@ -1,0 +1,13 @@
+# Target labels
+ EspIdfBootloader
+# Source files and their labels
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/zephyr/soc/soc/xtensa/espressif_esp32/esp32/CMakeFiles/EspIdfBootloader
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/zephyr/soc/soc/xtensa/espressif_esp32/esp32/CMakeFiles/EspIdfBootloader.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/zephyr/soc/soc/xtensa/espressif_esp32/esp32/CMakeFiles/EspIdfBootloader-complete.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-build.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-configure.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-download.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-install.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-mkdir.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-patch.rule
+/home/sjv/zephyrproject/zephyr/samples/bluetooth/peripheral_dis/build/esp-idf/src/EspIdfBootloader-stamp/EspIdfBootloader-update.rule
